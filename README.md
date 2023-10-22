@@ -57,7 +57,6 @@
 + label
 + linestyle
 + alpha
-
-plt.grid
-plt.axvline
-plt.ylim
++ plt.grid
++ plt.axvline
++ plt.ylim
