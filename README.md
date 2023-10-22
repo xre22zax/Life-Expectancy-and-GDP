@@ -46,16 +46,17 @@
 * Max min GDP, Life expectancy for each country
 * life expectancy of 2015
 
+---
 
-Inside plotting graphs methods:
+### Inside plotting graphs methods :
 
-marker
-edgecolor
-bins
-linestyle
-label
-linestyle
-alpha
++ marker
++ edgecolor
++ bins
++ linestyle
++ label
++ linestyle
++ alpha
 
 plt.grid
 plt.axvline
